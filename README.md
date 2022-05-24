@@ -1,7 +1,8 @@
 # Hello, my name is Peterson Muchiri:
-Seasoned full stack developer!
+A Seasoned software engineer!
 
-Passionate about changing the world through technology & making it a better place!
+I'm passionate about changing the world through technology & making it a better place!
 Enthusiastic in solving day to day civic challenges by providing real time tech solutions.
 
 
+I hear in bytes & write code on steroids.🧑🏼‍💻
